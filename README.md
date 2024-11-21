@@ -1,3 +1,15 @@
+# Supernova Simulation - Frontend
+
+This is the frontend for the Supernova Simulation project, which visualizes star properties and generates light curves for different star types. The application allows users to simulate star properties, view star classification results, and interact with the Hertzsprung-Russell diagram.
+
+## Prerequisites
+
+Before you begin, ensure you have the following software installed:
+
+- [Node.js](https://nodejs.org/) (for running the development server)
+- [npm](https://www.npmjs.com/) or [Yarn](https://yarnpkg.com/) (for managing dependencies)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
